@@ -2,4 +2,4 @@
 
 📖I'm learning about Java ☕
 
-🏳 My nationality is Thailand
+flag: Thailand My nationality is Thailand
