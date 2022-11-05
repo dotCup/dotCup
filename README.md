@@ -2,4 +2,5 @@
 
 📖I'm learning about Java ☕
 
-flag: Thailand My nationality is Thailand
+🧒My Gender is Male
+🏳 My nationality is Thailand
